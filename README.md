@@ -180,30 +180,6 @@ This is the direction I'm building toward:
 
 ---
 
-## 🔨 How I Build
-
-I follow a simple loop:
-
-```text
-       Learn
-         ↓
-       Build
-         ↓
-       Break
-         ↓
-       Debug
-         ↓
-     Understand
-         ↓
-       Rebuild
-         ↓
-       Repeat
-```
-
-A concept isn't really learned for me until I can **use it, explain it, debug it, and rebuild it without blindly copying code.**
-
-That's why many of my repositories are built progressively rather than all at once.
-
 ---
 
 ## 📈 Building in Public
