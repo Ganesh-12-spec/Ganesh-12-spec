@@ -7,7 +7,6 @@ Computer Engineering Student at SPPU Pune — building backend systems and AI in
 - 💬 Ask me about Go concurrency, REST API design, or backend fundamentals
 - 📫 Reach me at mhetreg458@gmail.com or on [LinkedIn](https://www.linkedin.com/in/ganeshmhetre)
 - 🐦 I build in public on [X/Twitter](https://twitter.com/ganesh_godev) — progress threads, bugs, and fixes as they happen
-- ⚡ Fun fact: I'd rather rebuild something from a blank page than copy-paste a fix I don't understand
 
 ---
 
